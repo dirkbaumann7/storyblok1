@@ -1,4 +1,10 @@
 export default {
+  mode: 'static',
+  router: {
+     base: '/storyblok1/'
+  },
+  // other config goes here
+
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
